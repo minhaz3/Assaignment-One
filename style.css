@@ -76,6 +76,7 @@
     border: 1px solid;
     padding: 10px;
     text-align: left;
+    margin-bottom: 50px;
 }
 
 #back-color {
@@ -88,4 +89,17 @@
 
 #back-color-third {
     background-color: rgb(170, 165, 99);
+}
+
+.section-four {
+    display: flex;
+}
+
+.flex-w {
+    width: 50%;
+    padding: 10px;
+}
+
+.last {
+    text-align: center;
 }
