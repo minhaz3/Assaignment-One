@@ -61,3 +61,31 @@
 .anchor {
     padding: 50px;
 }
+
+#plan {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.third-section {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.border {
+    border: 1px solid;
+    padding: 10px;
+    text-align: left;
+}
+
+#back-color {
+    background-color: rgb(44, 151, 115);
+}
+
+#back-color-second {
+    background-color: rgb(182, 149, 100);
+}
+
+#back-color-third {
+    background-color: rgb(170, 165, 99);
+}
