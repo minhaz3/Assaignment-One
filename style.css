@@ -102,4 +102,21 @@
 
 .last {
     text-align: center;
+    padding-bottom: 80px;
+}
+
+#fotter {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(12, 12, 12);
+    height: 100px;
+
+}
+
+#footer-h-color {
+    color: red;
+}
+
+#footer-p {
+    color: white;
 }
