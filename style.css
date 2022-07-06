@@ -1,2 +1,23 @@
-font-family: 'Oswald;
- sans-serif;
+.font-style {
+    font-family: 'Oswald', sans-serif;
+}
+
+.first-section {
+    background-image: url(/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0%;
+
+
+
+}
+
+.first-heading {
+    font-size: 100px;
+    text-align: center;
+}
+
+.first-paragraph {
+    text-align: center;
+}
